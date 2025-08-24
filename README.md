@@ -16,6 +16,13 @@ Uma aplicação iOS simples para gerenciar sua **lista de desejos**, construída
 - 💾 Armazenamento persistente usando **SwiftData**.
 - 📱 Interface moderna e responsiva com **SwiftUI**.
 
+## 🛠 Tecnologias
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)  
+ ![SwiftUI](https://img.shields.io/badge/SwiftUI-1E90FF?style=for-the-badge&logo=swift&logoColor=white)  
+ ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)  
+ ![SwiftData](https://img.shields.io/badge/SwiftData-ffac33?style=for-the-badge)  
+
 ## 🚀 Instalação
 
 1. Clone o repositório:  
