@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		E3DC1E7E2E5B4FC100591ED9 /* WishModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3DC1E7D2E5B4FC100591ED9 /* WishModel.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		E3DC1E6F2E5B4A4000591ED9 /* WishList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WishList.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E3DC1E7D2E5B4FC100591ED9 /* WishModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WishModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		E3DC1E662E5B4A4000591ED9 = {
 			isa = PBXGroup;
 			children = (
+				E3DC1E7D2E5B4FC100591ED9 /* WishModel.swift */,
 				E3DC1E712E5B4A4000591ED9 /* WishList */,
 				E3DC1E702E5B4A4000591ED9 /* Products */,
 			);
@@ -119,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E3DC1E7E2E5B4FC100591ED9 /* WishModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
