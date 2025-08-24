@@ -23,8 +23,8 @@ Uma aplicação iOS simples para gerenciar sua **lista de desejos**, construída
    git clone https://github.com/AndersonPS94/WishListiOSApp.git
 
 
-MIT License
-
+## MIT License
+```
 Copyright (c) 2025 Anderson Santos
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
