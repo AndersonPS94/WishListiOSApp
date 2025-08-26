@@ -12,7 +12,7 @@ Uma aplicação iOS simples para gerenciar sua **lista de desejos**, construída
 ## ✨ Funcionalidades
 
 - ➕ Adicionar novos itens à lista de desejos.
-- ✏️ Editar e remover itens existentes.
+- ✏️ Remover itens existentes.
 - 💾 Armazenamento persistente usando **SwiftData**.
 - 📱 Interface moderna e responsiva com **SwiftUI**.
 
